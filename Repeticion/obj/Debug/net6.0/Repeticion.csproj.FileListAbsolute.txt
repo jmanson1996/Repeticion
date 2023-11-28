@@ -1,0 +1,14 @@
+G:\proyectos c#\Repeticion\Repeticion\bin\Debug\net6.0\Repeticion.exe
+G:\proyectos c#\Repeticion\Repeticion\bin\Debug\net6.0\Repeticion.deps.json
+G:\proyectos c#\Repeticion\Repeticion\bin\Debug\net6.0\Repeticion.runtimeconfig.json
+G:\proyectos c#\Repeticion\Repeticion\bin\Debug\net6.0\Repeticion.dll
+G:\proyectos c#\Repeticion\Repeticion\bin\Debug\net6.0\Repeticion.pdb
+G:\proyectos c#\Repeticion\Repeticion\obj\Debug\net6.0\Repeticion.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectos c#\Repeticion\Repeticion\obj\Debug\net6.0\Repeticion.AssemblyInfoInputs.cache
+G:\proyectos c#\Repeticion\Repeticion\obj\Debug\net6.0\Repeticion.AssemblyInfo.cs
+G:\proyectos c#\Repeticion\Repeticion\obj\Debug\net6.0\Repeticion.csproj.CoreCompileInputs.cache
+G:\proyectos c#\Repeticion\Repeticion\obj\Debug\net6.0\Repeticion.dll
+G:\proyectos c#\Repeticion\Repeticion\obj\Debug\net6.0\refint\Repeticion.dll
+G:\proyectos c#\Repeticion\Repeticion\obj\Debug\net6.0\Repeticion.pdb
+G:\proyectos c#\Repeticion\Repeticion\obj\Debug\net6.0\Repeticion.genruntimeconfig.cache
+G:\proyectos c#\Repeticion\Repeticion\obj\Debug\net6.0\ref\Repeticion.dll
